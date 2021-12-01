@@ -12,6 +12,12 @@ auto-save-list
 tramp
 .\#*
 
+# Executable on C
+*.o
+
+# main on C
+* .main.c
+
 # Org-mode
 .org-id-locations
 *_archive
