@@ -23,7 +23,6 @@ struct binary_tree_s
 
 typedef struct binary_tree_s binary_tree_t;
 
-
 /**
  * Prototype that allow show the tree
 */
