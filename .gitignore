@@ -14,9 +14,11 @@ tramp
 
 # Executable on C
 *.o
+*.obj
+
 
 # main on C
-* .main.c
+*.main.c
 
 # Org-mode
 .org-id-locations
