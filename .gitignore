@@ -13,8 +13,8 @@ tramp
 .\#*
 
 # Executable on C
-*.o
-*.obj
+*o
+*obj
 
 
 # main on C
